@@ -1,0 +1,10 @@
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\bin\Debug\DiceRollTest.exe.config
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\bin\Debug\DiceRollTest.exe
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\bin\Debug\DiceRollTest.pdb
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\obj\Debug\DiceRollTest.csproj.AssemblyReference.cache
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\obj\Debug\DiceRollTest.Form1.resources
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\obj\Debug\DiceRollTest.Properties.Resources.resources
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\obj\Debug\DiceRollTest.csproj.GenerateResource.cache
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\obj\Debug\DiceRollTest.csproj.CoreCompileInputs.cache
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\obj\Debug\DiceRollTest.exe
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\DiceRollTest\DiceRollTest\obj\Debug\DiceRollTest.pdb
